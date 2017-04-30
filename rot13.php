@@ -1,3 +1,4 @@
+#!/usr/bin/php -q
 <?php
 /*
 * -> Codado por Fyk1ll
