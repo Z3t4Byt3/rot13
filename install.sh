@@ -6,5 +6,5 @@ if [ $USER != root ]; then
 fi
 
 chmod +x /opt/rot13/rot13.php
-ln -s /opt/rot13/rot13.php /usr/bin
+ln -s /opt/rot13/rot13.php /usr/bin/rot13
 echo "terminou de instalar!!"
